@@ -1,0 +1,23 @@
+.body{
+  background-color: #15172b;
+}
+
+
+
+.textstyle{
+  margin: 40px 00px;
+  color: white;
+  font-weight: bolder;
+}
+
+.logo {
+  position: relative;
+  display: flex;
+  margin-bottom: -70px;
+ 
+}
+.logo img {
+  height: 200px;
+  width: auto;
+  display: flex;
+}
