@@ -15,7 +15,7 @@
     <title>Rucek's IMS</title>
 
     <!-- MAIN STYLE -->
-    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="css/index.css">
     <link rel="icon" type="image/png" href="img/favcion.png" />
   </head>
   <body>
